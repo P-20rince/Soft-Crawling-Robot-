@@ -5,3 +5,4 @@ We successfully designed a four limb soft robotic crawler. Utiling the CAD Softw
 We researched about the material for its fabrication and found the best match i.e. LSR 110.
 Then we integrated Arduino Uno, relays, air compressor, solenoid valve to provide the motion.
 We programmed the arduino in TinkerCad for simulating the desired motion of the crawler.
+Working Video link: https://drive.google.com/file/d/1W-_cBVvRL45CCTXOrQf69AlcxZ_ttWbo/view?usp=drive_link
